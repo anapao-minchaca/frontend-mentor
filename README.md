@@ -14,3 +14,7 @@ This challenges were made for desktop only, mobile version TBD.
 ## Order Summary Component
 ![image](https://media.discordapp.net/attachments/715052160043319316/1092564485451038780/image.png?width=1440&height=669)
 ### [Live Preview](https://anapao-minchaca.github.io/frontend-mentor/order-summary-component-main/)
+
+## NFT Preview Card Component
+![image](https://media.discordapp.net/attachments/715052160043319316/1092603990144983151/image.png?width=1440&height=651)
+### [Live Preview](https://anapao-minchaca.github.io/frontend-mentor/nft-preview-card-component-main/)
